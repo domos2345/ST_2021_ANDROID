@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ST Game App 2021"
